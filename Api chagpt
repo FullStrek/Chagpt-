@@ -1,1 +1,14 @@
-
+<body>
+  <p></p>
+  <script>
+    const para=document query selector("p")
+    fetch(https://api.chagptapis.com.br/chagpt
+   .then(response-{
+     return response.json()
+    })
+    .then(data--{
+      var chagpt=data.sclip.id
+    para innertext=chagpt
+})
+  </script>
+  </body>
